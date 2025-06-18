@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Intiq Chat
+Comment=Graficzny komunikator XMPP
+Exec=/home/wojciech-tyde/Pulpit/intiq.py
+Icon=/home/wojciech-tyde/Pulpit/intiq.png
+Terminal=false
+Categories=Network;
+
