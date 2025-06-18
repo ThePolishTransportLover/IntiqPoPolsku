@@ -5,6 +5,7 @@ Oficjalny Intiq Komunikator XMPP po Polsku (Alfa)
 
 **Intiq** to prosty graficzny komunikator działający na protokole XMPP (Jabber).  
 Zbudowany w Pythonie z użyciem PyQt5 i Slixmpp.
+UWAGA: W folderze intiq znajduje się .desktop pod nazwą Intiq Chat. edytujcie go i zamiast wojciech-tyde dajcie swój user i włóżcie wszystko na pulpit. inaczej nie zadziała.
 
 ## ✨ Funkcje
 
