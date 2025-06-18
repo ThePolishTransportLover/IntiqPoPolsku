@@ -1,7 +1,7 @@
 FOR ENGLISH VERSION, SEE [soon] 
 # IntiqPoPolsku
 Oficjalny Intiq Komunikator XMPP po Polsku (Alfa)
-# Intiq — prosty komunikator XMPP na Linux (przez kompletnie AI) (PyQt5 + Slixmpp)
+# Intiq — prosty komunikator XMPP na Linux (PyQt5 + Slixmpp)
 
 **Intiq** to prosty graficzny komunikator działający na protokole XMPP (Jabber).  
 Zbudowany w Pythonie z użyciem PyQt5 i Slixmpp.
@@ -30,4 +30,3 @@ cd intiq
 pip install -r requirements.txt
 python3 intiq.py
 
-Jest on kompletnie przez chata gpt xd
